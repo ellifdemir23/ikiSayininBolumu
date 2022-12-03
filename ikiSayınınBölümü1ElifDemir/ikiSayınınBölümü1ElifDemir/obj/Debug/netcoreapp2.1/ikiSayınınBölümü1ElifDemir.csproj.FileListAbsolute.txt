@@ -1,0 +1,11 @@
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\bin\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.deps.json
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\bin\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.runtimeconfig.json
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\bin\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.runtimeconfig.dev.json
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\bin\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.dll
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\bin\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.pdb
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\obj\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.csprojAssemblyReference.cache
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\obj\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.csproj.CoreCompileInputs.cache
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\obj\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.AssemblyInfoInputs.cache
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\obj\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.AssemblyInfo.cs
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\obj\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.dll
+C:\Users\dbdb4\source\repos\ikiSayınınBölümü1ElifDemir\ikiSayınınBölümü1ElifDemir\obj\Debug\netcoreapp2.1\ikiSayınınBölümü1ElifDemir.pdb
